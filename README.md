@@ -1,0 +1,2 @@
+# myfirstcode
+funny coding 
